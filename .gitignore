@@ -1,0 +1,7 @@
+.claude/
+node_modules/
+dist/
+target/
+*.exe
+server/data/
+desktop/src-tauri/resources/
